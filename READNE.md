@@ -1,0 +1,1 @@
+https://realpython.com/python-microservices-grpc/#the-rpc-client
